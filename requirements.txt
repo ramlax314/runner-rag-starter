@@ -1,0 +1,7 @@
+streamlit
+openai
+pandas
+chromadb
+numpy
+python-docx
+xlsxwriter
